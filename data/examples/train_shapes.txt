@@ -1,0 +1,62 @@
+
+Training Samples:
+Sample 1:
+  Input shape: torch.Size([1, 4, 64, 64])
+  Target shape: torch.Size([1, 64, 64])
+  Sequence length: 4
+  Input min/max: 0.00/1.00
+  Target unique values: [0, 255]
+Sample 2:
+  Input shape: torch.Size([1, 1, 64, 64])
+  Target shape: torch.Size([1, 64, 64])
+  Sequence length: 1
+  Input min/max: 0.00/1.00
+  Target unique values: [0]
+Sample 3:
+  Input shape: torch.Size([1, 3, 64, 64])
+  Target shape: torch.Size([1, 64, 64])
+  Sequence length: 3
+  Input min/max: 0.00/1.00
+  Target unique values: [0, 255]
+Sample 4:
+  Input shape: torch.Size([1, 5, 64, 64])
+  Target shape: torch.Size([1, 64, 64])
+  Sequence length: 5
+  Input min/max: 0.00/1.00
+  Target unique values: [0]
+Sample 5:
+  Input shape: torch.Size([1, 2, 64, 64])
+  Target shape: torch.Size([1, 64, 64])
+  Sequence length: 2
+  Input min/max: 0.00/1.00
+  Target unique values: [0, 255]
+Sample 6:
+  Input shape: torch.Size([1, 3, 64, 64])
+  Target shape: torch.Size([1, 64, 64])
+  Sequence length: 3
+  Input min/max: 0.00/1.00
+  Target unique values: [0, 255]
+Sample 7:
+  Input shape: torch.Size([1, 1, 64, 64])
+  Target shape: torch.Size([1, 64, 64])
+  Sequence length: 1
+  Input min/max: 0.00/1.00
+  Target unique values: [0]
+Sample 8:
+  Input shape: torch.Size([1, 3, 64, 64])
+  Target shape: torch.Size([1, 64, 64])
+  Sequence length: 3
+  Input min/max: 0.00/1.00
+  Target unique values: [0, 255]
+Sample 9:
+  Input shape: torch.Size([1, 4, 64, 64])
+  Target shape: torch.Size([1, 64, 64])
+  Sequence length: 4
+  Input min/max: 0.00/1.00
+  Target unique values: [0]
+Sample 10:
+  Input shape: torch.Size([1, 5, 64, 64])
+  Target shape: torch.Size([1, 64, 64])
+  Sequence length: 5
+  Input min/max: 0.00/1.00
+  Target unique values: [0]

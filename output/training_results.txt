@@ -1,0 +1,4 @@
+=== Training Results ===
+vit:
+  Best val loss: 0.0059
+  Best val accuracy: 98.73%

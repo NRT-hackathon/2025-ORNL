@@ -1,0 +1,15 @@
+__pycache__/*
+*/__pycache__/*
+_archive/*
+*.png
+*.json
+*.csv
+*.npy
+*.pth
+*.pyc
+*.mp4
+*.pdf
+*.docx
+*.xlsx
+*.avi
+results*/*
